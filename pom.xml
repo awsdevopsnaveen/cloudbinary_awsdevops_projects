@@ -14,15 +14,11 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
 
-        <sonar.host.url>http://http://3.85.29.204:9092</sonar.host.url>
-        <sonar.organization>sonar-project</sonar.organization>
-        <sonar.projectKey>sonar-project</sonar.projectKey>
-        <sonar.login>sqp_b20f3c62b2287601648d4c2f44a2d7d60030b858</sonar.login>
-
-
-    </properties>
-
-       
+        <sonar.host.url>http://35.171.8.204:9092</sonar.host.url>
+        <sonar.organization>devops-project</sonar.organization>
+        <sonar.projectKey>devops-project</sonar.projectKey>
+        <sonar.login>sqp_53c17e29a5b0eb5864ee43945e99987d4ff75870</sonar.login> 
+    </properties>     
 <distributionManagement>
 
     <repository>
